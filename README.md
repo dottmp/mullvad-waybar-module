@@ -72,7 +72,7 @@ cat mullvad-waybar-module/style.css >> ~/.config/waybar/style.css
 
 ```css
 @define-color error #F96184;
-@define-color warning #F6B016;
+@define-color foreground #D3D9FF;
 @define-color success #01D38F;
 
 #custom-mullvad {
