@@ -13,7 +13,7 @@ Just needed a simple way to see if I'm connected to Mullvad VPN and what server 
 **1. Clone the repo**
 
 ```sh
-git clone git@github.com:Jonathandah/mullvad-waybar-module.git
+git clone git@github.com:dottmp/mullvad-waybar-module.git
 ```
 
 **2. If you haven't already installed mullvad-vpn, you can install it with yay:**
